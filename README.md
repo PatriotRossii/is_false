@@ -1,4 +1,4 @@
-This crate entroduces `is_false!` macro and `is_false()` function which checks if argument is true
+This crate entroduces `is_false!` macro and `is_false()` function which checks if argument is false
 
 ```toml
 [dependencies] 
